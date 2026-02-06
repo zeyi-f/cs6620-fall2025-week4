@@ -42,11 +42,8 @@ if __name__ == "__main__":
 
     result1 = calculate('add', 10, 5)
     print(f"10 + 5 = {result1}")
- 
+
     result2 = calculate('multiply', 7, 3)
     print(f"7 * 3 = {result2}")
- 
-    unused_variable = "This variable is never used"
- 
-    print("Calculator completed successfully!")
 
+    print("Calculator completed successfully!")
